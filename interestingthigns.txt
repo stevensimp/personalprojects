@@ -1,0 +1,4 @@
+Clojure Spell Checker - https://bernhardwenzel.com/articles/clojure-spellchecker/
+C++ Text Editor - https://www.fltk.org/doc-1.1/editor.html
+C# Web Server - https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch
+JavaScript - Make my own website 
